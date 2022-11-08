@@ -1,5 +1,12 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=talhauzair-28)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+### [Talha Uzair](https://www.linkedin.com/in/talha-uzair-19505361/): Mobile Developer
+
+## Skills:
+- React Native (Typescript)
+- Native Android (Java)
+- Native iOS Development (Swift)
 <!--
 **talhauzair-28/talhauzair-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
