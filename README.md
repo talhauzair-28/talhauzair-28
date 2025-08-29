@@ -42,7 +42,7 @@ I actively participate in the open-source community. Here are some issues I've e
 
 ## 📫 Let's Connect
 
-I'm always open to collaborating on projects and discussing innovative ideas. Reach out to me via [LinkedIn]([https://www.linkedin.com/in/talhauzair/](https://www.linkedin.com/in/talha-uzair-19505361/)) or [Twitter](https://twitter.com/Dex__boy).
+I'm always open to collaborating on projects and discussing innovative ideas. Reach out to me via [LinkedIn](https://www.linkedin.com/in/talha-uzair-19505361/) or [Twitter](https://twitter.com/Dex__boy).
 
 
 <!--
