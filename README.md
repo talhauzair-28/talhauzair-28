@@ -1,8 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=talhauzair-28)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
 # 👋 Hi, I'm Talha Uzair
 ![Software Engineer](https://img.shields.io/badge/Profile-Developer-blue?style=flat-square)  
 ![React Native](https://img.shields.io/badge/Mobile-React_Native-green?style=flat-square) 
